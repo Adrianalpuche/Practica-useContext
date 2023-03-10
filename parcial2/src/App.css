@@ -1,0 +1,44 @@
+*{
+  font-size: 20px;
+}
+
+.hij {
+  border: 10px solid black ;
+  margin: 110px 80px;
+  display: flex;
+  justify-content: center;
+}
+
+.division{
+  display: flex;
+  justify-content: center;
+}
+
+.division > p {
+  margin-right: 60px;
+
+}
+
+.division1{
+  text-align: center;
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+.i{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  height: auto;
+  width: 25%;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+
+
+
+
+
+
+
+
